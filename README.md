@@ -1,4 +1,4 @@
-# currency-convertor
+# currency-convertor-web-app
 Currency convertor is a web app that converts one currency value into another.
 
 ## LIVE DEMO: "https://currency-convertor-react.web.app"
